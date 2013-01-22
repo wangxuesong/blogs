@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wangxuesong.github.com/blogs/sitemap.xml 
